@@ -28,7 +28,7 @@ with open(path.join(here, "README.md"), encoding="utf-8") as f:
 
 setup(
     name="faas-sdk-python",
-    version="0.0.1",
+    version="1.0.1",
     description="An open source FaaS (Function as a service) sdk for Sber Platform V functions local testing & running",
     long_description=long_description,
     long_description_content_type="text/markdown",
